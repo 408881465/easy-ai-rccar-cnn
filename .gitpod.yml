@@ -1,0 +1,10 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: |
+      pip install tensorflow pillow numpy tensorflowjs
+      echo "Installed Python packages!"
+
+  - command: |
+      echo "Ready to code!"
