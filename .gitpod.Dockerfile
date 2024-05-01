@@ -1,1 +1,1 @@
-FROM gitpod/workspace-full:latest
+FROM python:3.8.10
