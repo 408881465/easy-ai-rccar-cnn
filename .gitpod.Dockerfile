@@ -1,1 +1,1 @@
-FROM Python 3.10.12
+FROM gitpod/workspace-full:late
