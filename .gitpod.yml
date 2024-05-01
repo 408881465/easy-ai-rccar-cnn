@@ -3,7 +3,7 @@ image:
 
 tasks:
   - init: |
-      pip install tensorflow pillow numpy tensorflowjs
+      pip install tensorflow==2.15.0 pillow numpy tensorflowjs
       echo "Installed Python packages!"
 
   - command: |
