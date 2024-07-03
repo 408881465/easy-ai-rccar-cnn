@@ -3,7 +3,7 @@ image:
 
 tasks:
   - init: |
-      # pip install tensorflow==2.6.2 pillow numpy==1.19.5  tensorflowjs==3.18.0
+      pip install tensorflow==2.6.2 pillow numpy==1.19.5  tensorflowjs==3.18.0
       pip install -r "requirements.txt"
       echo "Installed Python packages!"
 
