@@ -110,3 +110,4 @@ wheel==0.37.1
 wincertstore==0.2
 wrapt==1.12.1
 zipp==3.6.0
+matplotlib==3.3.4
