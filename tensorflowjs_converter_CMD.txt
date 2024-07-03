@@ -1,3 +1,9 @@
-gitpod@408881465-easyairccarcn-c3ztjy04160:/workspace/easy-ai-rccar-cnn$ find ~/.local/bin -name tensorflowjs_converter
+gitpod@408881465-easyairccarcn-c3ztjy04160:/workspace/easy-ai-rccar-cnn$
+find ~/.local/bin -name tensorflowjs_converter
+
 /home/gitpod/.local/bin/tensorflowjs_converter
-gitpod@408881465-easyairccarcn-c3ztjy04160:/workspace/easy-ai-rccar-cnn$ /home/gitpod/.local/bin/tensorflowjs_converter --input_format keras rccar6.h5 tfjs_model
+
+gitpod@408881465-easyairccarcn-c3ztjy04160:/workspace/easy-ai-rccar-cnn$
+/home/gitpod/.local/bin/tensorflowjs_converter --input_format keras rccar6.h5 tfjs_model
+
+tensorflowjs_converter --input_format keras rccar6.h5 tfjs_model
